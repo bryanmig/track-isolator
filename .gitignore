@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.cache/
+
+build/
+dist/
+*.egg-info/
+
+input/
+output/
+separated/
+*.mp3
+*.wav
+*.flac
